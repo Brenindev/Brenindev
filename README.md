@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello 👋🏻
 
 Meu nome é Breno, sou formado técnico em Informática e atualmente estou cursando um tecnólogo em Análise e Desenvolvimento de Sistemas. Meu foco é o desenvolvimento web com HTML, CSS, JavaScript, React e Node. Além da aplicação de metodologias ágeis, como SCRUM.
 
