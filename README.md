@@ -23,4 +23,5 @@ Estou sempre em constante aprendizado, adoro me aventurar em assuntos desconheci
   
    #### "Nós somos o que repetimos. Excelência não é um ato, é um hábito." - Aristóteles
    
+   ![snake gif](https://github.com/Brenindev/Brenindev/blob/output/github-contribution-grid-snake.svg)
 
